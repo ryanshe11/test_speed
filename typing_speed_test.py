@@ -1,6 +1,7 @@
 # Typing Speed Test - Test your typing speed
 
 import random
+import os
 
 # List of sample sentences for typing
 sentences = [
