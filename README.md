@@ -1,4 +1,4 @@
-# Typing Speed Test 
+# 🚀  Typing Speed Test 
 This Python script allows you to test your typing speed and accuracy with random sentences.
 
 ## 🚀 Features
