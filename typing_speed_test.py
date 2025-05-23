@@ -2,6 +2,7 @@
 
 import random
 import os
+import pandas
 
 # List of sample sentences for typing
 sentences = [
