@@ -5,6 +5,7 @@ import os
 import random
 
 # List of sample sentences for typing
+sentence = []
 sentences = [
     "The quick brown fox jumps over the lazy dog.",
     "Python is a widely used high-level programming language.",
