@@ -3,6 +3,7 @@
 import random
 import os
 import random
+import operator
 
 # List of sample sentences for typing
 sentence = ['bor']
