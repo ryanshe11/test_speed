@@ -1,21 +1,21 @@
 # 🚀  Typing Speed Test 
 This Python script allows you to test your typing speed and accuracy with random sentences.
 
-## 🚀 Features
+### 🚀 Features
 
 - Random sentence generation for each test
 - Real-time typing speed measurement (WPM)
 - Accuracy percentage calculation
 - Easy-to-use command-line interface
 
-## ▶️ How to Use
+### ▶️ How to Use
 
 1. Clone the repository or download the script.
 2. Run the script using Python:
    ```bash
    python typing_speed_test.py
 
-## 🖥 Example Output
+### 🖥 Example Output
 
 ```
 Welcome to the Typing Speed Test!
@@ -34,7 +34,7 @@ Start typing:
 🎯 Accuracy: 100.00%
 ```
 
-##  Ideas for Future Improvement
+###  Ideas for Future Improvement
 * Save scores to a file
 * Add difficulty levels (longer or more complex sentences)
 * Include a countdown timer before the test begins
