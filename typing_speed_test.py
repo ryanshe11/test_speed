@@ -1,6 +1,5 @@
 # Typing Speed Test - Test your typing speed
 
-import random
 import os
 import random
 import operator
