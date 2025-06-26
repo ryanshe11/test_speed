@@ -6,7 +6,7 @@ This Python script allows you to test your typing speed and accuracy with random
 - Random sentence generation for each test
 - Real-time typing speed measurement (WPM)
 - Accuracy percentage calculation
-- Easy-to-use command-line interface
+- Easy-to-use command interface
 
 ### ▶️ How to Use
 
