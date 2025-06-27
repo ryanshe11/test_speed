@@ -35,6 +35,10 @@ def typing_test():
     word_count = len(sentence.split())
     speed_wpm = (word_count / elapsed_time) * 60
 
+        # Calculate typing speed
+    word_count = len(sentence.split())
+    speed_wpm = (word_count / elapsed_time) * 70 /10
+
     # Calculate accuracy
     correct_chars = sum(1 for a, b in zip(typed, sentence) if a == b)
     accuracy = (correct_chars / len(sentence)) * 100
