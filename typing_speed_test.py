@@ -7,8 +7,8 @@ import operator
 # List of sample sentences for typing
 sentence = ['bor']
 sentences = [
-    "The quick brown fox jumps over the lazy dog.",
-    "Python is a widely used high-level programming language.",
+    "The quick brown fox jumps over the lazy dogs.",
+    "Python is a widely used high-level programming languages.",
     "Typing speed tests are fun and useful.",
     "OpenAI creates powerful AI tools for developers.",
     "Practice makes perfect when it comes to typing."
