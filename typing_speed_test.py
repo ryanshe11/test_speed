@@ -40,7 +40,7 @@ def typing_test():
     speed_wpm = (word_count / elapsed_time) * 70 /10
 
     # Calculate accuracy
-    correct_chars = sum(1 for a, b in zip(typed, sentence) if a == b)
+    correct_chars = sum(1 for a, b in zip(typed, sentence) if a == c)
     accuracy = (correct_chars / len(sentence)) * 100
 
     print(f"\n⏱ Time: {elapsed_time:.2f} seconds")
